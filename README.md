@@ -1,17 +1,30 @@
-## Hi there 👋
-
-<!--
-**mohammadmahdiebazade-ez/mohammadmahdiebazade-ez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<h1 align="center">Hi 👋 , Im Mohammad Mahdi Ebazade</h1>
+<h1 align="center">Hi👋, I'm Mohammad Mahdi Ebazade</h1>
 
 <h3 align="center">
-Python developer | Computer Engineering Student
+🐍 Python Developer | Computer Engineering Student
 </h3>
 
----
-### About Me
+<p align="center">
+  Learning, Building & Creating with Python.
+</p>
 
-Python Developer
-Computer Engineering Studen
--->
+---
+
+## 👨‍💻 About Me
+
+- 🐍 Python Developer
+- 🎓 Computer Engineering Student
+- 💻 Interested in Software Development
+- 🌱 Always learning something new
+
+## 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,linux" />
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammadmahdi-ebazade-ez&show_icons=true&theme=tokyonight" />
+</p>
