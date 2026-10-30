@@ -23,7 +23,7 @@
 ## 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode," />
 </p>
 
 
