@@ -1,9 +1,8 @@
 <p align="center">
- <img src="./banner . png" width="100%"
-alt="Mohammad Mahdi Ebazade Banner">
-</p>p>
-
-
+  <img src="./README.png"
+       alt="Mohammad Mahdi Ebazade"
+       width="100%">
+</p>
 <h3 align="center">
 🐍 Python Developer | Computer Engineering Student
 </h3>
