@@ -23,4 +23,10 @@
   <img src="https://skillicons.dev/icons?i=python,git,github,vscode,linux" />
 </p>
 
+<p align="center">
+ <img src="./banner . png" width="100%"
+alt="Mohammad Mahdi Ebazade Banner">
+</p>p>
+<h1 align="center">Mohammad Mahdi Ebazade</h1>h1>
+<h3 align="center">Python Developer 🐍 </h3>
 
